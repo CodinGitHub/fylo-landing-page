@@ -16,6 +16,7 @@ Los usuarios pueden:
 
 ## Explicación en video
 [![Ver el video](https://img.youtube.com/vi/2oHq5KGBXb4/0.jpg)](https://www.youtube.com/watch?v=2oHq5KGBXb4)
+[![Ver el video 2](https://img.youtube.com/vi/d6a4VV4IjYc/0.jpg)](https://www.youtube.com/watch?v=d6a4VV4IjYc)
 
 ## Comenzando
 
